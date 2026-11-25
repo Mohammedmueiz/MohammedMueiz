@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi, I'm Mohammed Mueiz 👋
+<!-- Dark Slate Banner via capsule-render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=180&section=header&text=Mohammed%20Mueiz&fontSize=42&fontColor=F8FAFC&desc=AI%20%26%20ML%20Undergraduate%20%7C%20Computer%20Vision%20%E2%80%A2%20NLP%20%E2%80%A2%20Quantum%20ML&descAlign=50&descAlignY=68" width="100%" alt="Mohammed Mueiz Banner" />
 
-### AI & Machine Learning Undergraduate @ HKBK College of Engineering
-Building intelligent systems across **Computer Vision**, **NLP**, **Applied AI**, and **Quantum Machine Learning**
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mueiz-63ab15299)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedmueiz28@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Mohammedmueiz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammedmueiz)
+[![GitHub](https://img.shields.io/badge/GitHub-Mohammedmueiz-1E293B?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/Mohammedmueiz)
 
 </div>
 
@@ -15,9 +15,9 @@ Building intelligent systems across **Computer Vision**, **NLP**, **Applied AI**
 
 ## 🎯 About Me
 
-I'm an Artificial Intelligence & Machine Learning student passionate about turning complex data and research ideas into practical, high-impact software. My work bridges **deep learning**, **computer vision**, **natural language processing**, and **quantum machine learning (QML)**—with a strong focus on experimentation, clean engineering, and real-world problem solving.
+AI & Machine Learning undergraduate at **HKBK College of Engineering** focused on turning research ideas and complex datasets into practical, high-impact systems across **Computer Vision**, **NLP**, **Deep Learning**, and **Quantum Machine Learning (QML)**.
 
-* 🔭 **Currently exploring:** Quantum-enhanced ML models, vision pipelines, and applied AI research
+* 🔭 **Currently exploring:** Quantum-enhanced ML models, computer vision pipelines, and applied AI research
 * 🌱 **Always learning:** Model optimization, scalable ML workflows, and research-to-production systems
 * 🤝 **Open to:** AI/ML internships, research collaborations, and open-source projects
 
@@ -33,22 +33,35 @@ I'm an Artificial Intelligence & Machine Learning student passionate about turni
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Related Skills
 
 <div align="left">
 
-**Languages & Core ML**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+**Languages & Data Science**  
+![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=38BDF8)
+![NumPy](https://img.shields.io/badge/NumPy-1E293B?style=flat-square&logo=numpy&logoColor=60A5FA)
+![Pandas](https://img.shields.io/badge/Pandas-1E293B?style=flat-square&logo=pandas&logoColor=A78BFA)
+![SciPy](https://img.shields.io/badge/SciPy-1E293B?style=flat-square&logo=scipy&logoColor=38BDF8)
+![Jupyter](https://img.shields.io/badge/Jupyter-1E293B?style=flat-square&logo=jupyter&logoColor=FB923C)
 
-**Deep Learning & Computer Vision**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**Machine Learning & Deep Learning**  
+![PyTorch](https://img.shields.io/badge/PyTorch-1E293B?style=flat-square&logo=pytorch&logoColor=F87171)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1E293B?style=flat-square&logo=tensorflow&logoColor=FBBF24)
+![Keras](https://img.shields.io/badge/Keras-1E293B?style=flat-square&logo=keras&logoColor=F87171)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1E293B?style=flat-square&logo=scikitlearn&logoColor=FBBF24)
 
-**Version Control & Workflow**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**Computer Vision & NLP**  
+![OpenCV](https://img.shields.io/badge/OpenCV-1E293B?style=flat-square&logo=opencv&logoColor=34D399)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1E293B?style=flat-square&logo=huggingface&logoColor=FACC15)
+![NLTK](https://img.shields.io/badge/NLP%20%2F%20NLTK-1E293B?style=flat-square&logo=python&logoColor=38BDF8)
+![spaCy](https://img.shields.io/badge/spaCy-1E293B?style=flat-square&logo=spacy&logoColor=60A5FA)
+
+**Quantum ML & Research Workflow**  
+![Qiskit](https://img.shields.io/badge/Qiskit-1E293B?style=flat-square&logo=qiskit&logoColor=C084FC)
+![PennyLane](https://img.shields.io/badge/PennyLane-1E293B?style=flat-square&logo=python&logoColor=34D399)
+![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=FB7185)
+![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=F8FAFC)
+![Linux](https://img.shields.io/badge/Linux-1E293B?style=flat-square&logo=linux&logoColor=FACC15)
 
 </div>
 
@@ -56,4 +69,10 @@ I'm an Artificial Intelligence & Machine Learning student passionate about turni
 
 ## 📫 Get In Touch
 
-Have an interesting research idea, project collaboration, or ML opportunity? Feel free to connect via [LinkedIn](https://www.linkedin.com/in/mohammed-mueiz-63ab15299) or drop a note at [mohammedmueiz28@gmail.com](mailto:mohammedmueiz28@gmail.com).
+Have an interesting research idea, project collaboration, or ML opportunity? Reach out on [LinkedIn](https://www.linkedin.com/in/mohammed-mueiz-63ab15299) or email [mohammedmueiz28@gmail.com](mailto:mohammedmueiz28@gmail.com).
+
+<br />
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=90&section=footer" width="100%" alt="Footer Wave" />
+</div>
