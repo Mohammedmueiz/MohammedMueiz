@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Dark Slate Banner via capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=180&section=header&text=Mohammed%20Mueiz&fontSize=42&fontColor=F8FAFC&desc=AI%20%26%20ML%20Undergraduate%20%7C%20Computer%20Vision%20%E2%80%A2%20NLP%20%E2%80%A2%20Quantum%20ML&descAlign=50&descAlignY=68" width="100%" alt="Mohammed Mueiz Banner" />
+# Mohammed Mueiz
+
+**AI & Machine Learning Undergraduate @ HKBK College of Engineering**  
+`Computer Vision` • `Natural Language Processing` • `Deep Learning` • `Quantum Machine Learning`
 
 <br />
 
@@ -15,7 +17,7 @@
 
 ## 🎯 About Me
 
-AI & Machine Learning undergraduate at **HKBK College of Engineering** focused on turning research ideas and complex datasets into practical, high-impact systems across **Computer Vision**, **NLP**, **Deep Learning**, and **Quantum Machine Learning (QML)**.
+> AI & Machine Learning student passionate about turning research ideas and complex datasets into practical, high-impact systems across **Computer Vision**, **NLP**, **Deep Learning**, and **Quantum Machine Learning (QML)**.
 
 * 🔭 **Currently exploring:** Quantum-enhanced ML models, computer vision pipelines, and applied AI research
 * 🌱 **Always learning:** Model optimization, scalable ML workflows, and research-to-production systems
@@ -34,8 +36,6 @@ AI & Machine Learning undergraduate at **HKBK College of Engineering** focused o
 ---
 
 ## 🛠️ Tech Stack & Related Skills
-
-<div align="left">
 
 **Languages & Data Science**  
 ![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=38BDF8)
@@ -63,16 +63,8 @@ AI & Machine Learning undergraduate at **HKBK College of Engineering** focused o
 ![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=F8FAFC)
 ![Linux](https://img.shields.io/badge/Linux-1E293B?style=flat-square&logo=linux&logoColor=FACC15)
 
-</div>
-
 ---
 
 ## 📫 Get In Touch
 
 Have an interesting research idea, project collaboration, or ML opportunity? Reach out on [LinkedIn](https://www.linkedin.com/in/mohammed-mueiz-63ab15299) or email [mohammedmueiz28@gmail.com](mailto:mohammedmueiz28@gmail.com).
-
-<br />
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=90&section=footer" width="100%" alt="Footer Wave" />
-</div>
